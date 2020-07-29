@@ -24,7 +24,9 @@ Data of our mobile users remain anonymous to us and to the third party ad agenci
 Predict My 4D uses AdMob ad network by google as its choice to show third party ads within the mobile app. Policies for these ad providers can be found respectively: 
 
 (1) https://policies.google.com/privacy?hl=en
+
 (2) https://support.google.com/admob/answer/9012903?hl=en-GB
+
 (3) https://support.google.com/admob/answer/2753860#Interest_based
 
 D) Online Identifiers
