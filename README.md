@@ -1,4 +1,4 @@
 policy
 ======
 
-Policy documents (community guidelines, privacy, TOS, etc)
+Policy documents (privacy)
